@@ -2,6 +2,7 @@
 You will see the basic data pre-processing differences between python and Pyspark coding
 
 Please check my article on linkedin.com/in/preetpal725.
+Dataset: https://archive.ics.uci.edu/ml/datasets/iris
 
 I have written this article in collaboration with Himanshu Negi which will give you a kick start on how to use PySpark for basic data pre-processing 
 for your machine learning algorithmns running on Spark clusters. By now most of you had hit the limitations of working with big data in Pandas (non-scalable)
